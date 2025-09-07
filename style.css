@@ -1,0 +1,11 @@
+body{
+    font family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px !important;
+}
+.intro{
+    font-size: 45px;
+}
+.description{
+    color:blue;
+    font-style: italic;
+}
